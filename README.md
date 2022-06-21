@@ -1,5 +1,5 @@
-# servico-de-parcelamento
-Criando um programa que calcula as parcelas com os juros de cada uma.
+# Serviço de Parcelamento 
+## Criando um programa que calcula as parcelas com os juros de cada uma.
 
 O programa para lê os dados de um contrato (nome do contratante, data do contrato,
 e valor total do contrato e quantidade de parcelas). Em seguida o programa gera 
